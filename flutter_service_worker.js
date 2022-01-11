@@ -3,21 +3,40 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "53fb59e54fb87bb44dba7c2200e1dead",
-"index.html": "14319e97147c6a5f0ad5d7065b98fb95",
-"/": "14319e97147c6a5f0ad5d7065b98fb95",
-"main.dart.js": "9408a014543d631d90252b537791cc4c",
+  "version.json": "e3846eef3dfc91dbc4b2a50b8be56c51",
+"index.html": "597a3357fe95bee4e1d59a8398639cef",
+"/": "597a3357fe95bee4e1d59a8398639cef",
+"main.dart.js": "ac425ae615123432577fde12d565a1cc",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "ace26d0c71a6ddf01f5f72671a426a89",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"manifest.json": "11b0bd9d8da455c4a2fc0a55e02822fa",
+".git/config": "38881ccff4dc4e249623736f3cd97a15",
+".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
+".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
+".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
+".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
+".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
+".git/hooks/pre-commit.sample": "305eadbbcd6f6d2567e033ad12aabbc4",
+".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
+".git/hooks/fsmonitor-watchman.sample": "ea587b0fae70333bce92257152996e70",
+".git/hooks/pre-receive.sample": "2ad18ec82c20af7b5926ed9cea6aeedd",
+".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
+".git/hooks/post-update.sample": "2b7ea5cee3c49ff53d41e00785eb974c",
+".git/hooks/pre-merge-commit.sample": "39cb268e2a85d436b9eb6f47614c3cbc",
+".git/hooks/pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
+".git/hooks/pre-push.sample": "2c642152299a94e05ea26eae11993b13",
+".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
+".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
+"assets/AssetManifest.json": "542e8f13f158a34b4add60d1b9c7bdd2",
 "assets/NOTICES": "5e7feb15b4ea57eab8ff9bc6da0322de",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81"
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/assets/image/logo.png": "9084b48327d070c9f8c6591e28e96583",
+"assets/assets/json/60-verse.json": "6ba8f91232754e6a5eb831b1c30dc6e9"
 };
 
 // The application shell files that are downloaded before a service worker can
